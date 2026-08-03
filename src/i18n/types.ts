@@ -1139,6 +1139,7 @@ export interface TranslationDict {
     uploadInProgress: string;
     uploadSuccess: string;
     uploadFailed: string;
+    uploadUnavailable: string;
     uploadDescriptionPlaceholder: string;
     // Success card
     successTitle: string;
